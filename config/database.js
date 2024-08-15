@@ -1,7 +1,7 @@
 const { Sequelize } = require('sequelize');
 
 // Configuração do banco de dados
-const dbName = 'nome_do_seu_banco';
+const dbName = 'EAI PESSOAL';
 const dbUser = 'usuario_do_banco';
 const dbPassword = 'senha_do_banco';
 const dbHost = 'localhost';
