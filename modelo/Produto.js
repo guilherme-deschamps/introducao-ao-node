@@ -10,7 +10,7 @@ Produto.init({
         autoIncrement: true
     },
     nome: {
-        type: DataTypes.STRING
+        type: DataTypes.TEXT // Isso foi o Guilherme
     },
     descricao: {
         type: DataTypes.TEXT
